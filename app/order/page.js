@@ -1,10 +1,10 @@
 import React from "react"
-import Home from "./components/Home"
+import Order from "../components/Order"
 
 export default function page() {
 	return (
 		<>
-			<Home />
+			<Order />
 		</>
 	)
 }
